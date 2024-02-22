@@ -48,6 +48,8 @@ Hey there, curious minds! 👋 I'm an technical engineer turned into data enthus
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 
 <a href="https://keras.io/img/logo.png" target="_blank"> <img align="left" src="https://keras.io/img/logo.png" alt="keras" height="42px"/> </a> 
+<a href="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" target="_blank"> <img align="left" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="keras" height="49px"/> </a> 
+
 <br>
 <br>
 
