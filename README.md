@@ -55,9 +55,9 @@ Hey there, curious minds! 👋 I'm an technical engineer turned into data enthus
 
 ### 🛠️ My Projects
 -------------------------
-- Exploratory data analysis of supermarket product prices
-- Customer churn prediction with machine learning
-- Using the ChatGPT API to classify and synthesize WhatsApp messages
+- [Exploratory data analysis of supermarket product prices](https://github.com/lourdes-gomez/Machine-learning-projects/tree/main/EDA_Lourdes_Gomez)
+- [Customer churn prediction with machine learning](https://github.com/lourdes-gomez/Machine-learning-projects/tree/main/Customer%20churn%20prediction%20with%20machine%20learning)
+- [Using the ChatGPT API to classify and synthesize WhatsApp messages](https://github.com/lourdes-gomez/tripulaciones-data)
 <br>
 
 ### 🧾 Certifications:
