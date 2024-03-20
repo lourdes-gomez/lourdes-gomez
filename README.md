@@ -66,6 +66,7 @@ Hey there, curious minds! 👋 I'm an technical engineer turned into data enthus
 
 ### 🗒️ Resume:
 -------------------------
+[Resume Lourdes Gómez](https://github.com/lourdes-gomez/lourdes-gomez/blob/main/CV_Lourdes%20G%C3%B3mez_2024_en.pdf)
 <br>
 
 ### 📫 Contact info:
