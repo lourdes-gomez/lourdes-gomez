@@ -1,8 +1,8 @@
-## Hey there, I'm Lourdes
+## Hey there, I'm Lourdes👋 
 
 
 
-Welcome to my profile, curious minds! 👋 I'm an technical engineer turned into data enthusiast, fueled by an insistent curiosity for knowledge in the realms of data science and artificial intelligence. With a love for solving problems🛠️ and a passion for new technologies💻, I'm here to explore the data world🌐!
+Welcome to my profile, curious minds!:basecampy: I'm an technical engineer turned into data enthusiast, fueled by an insistent curiosity for knowledge in the realms of data science and artificial intelligence. With a love for solving problems🛠️ and a passion for new technologies💻, I'm here to explore the data world🌐!
 
 
 <br/>
