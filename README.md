@@ -62,7 +62,7 @@ Hey there, curious minds! 👋 I'm an technical engineer turned into data enthus
 
 ### 🧾 Certifications:
 -------------------------
-<br> In progress --- Professional Data Engineer Certification by Google Cloud
+<br> In progress --- [Professional Data Engineer Certification by Google Cloud](https://cloud.google.com/learn/certification/data-engineer?hl=es-419)
 
 ### 🗒️ Resume:
 -------------------------
