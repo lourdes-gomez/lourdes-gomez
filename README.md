@@ -55,7 +55,7 @@ Welcome to my profile, curious minds! :basecampy:: I'm an technical engineer tur
 
 ### 🛠️ My Projects
 -------------------------
-- [Exploratory data analysis of supermarket product prices](https://github.com/lourdes-gomez/Machine-learning-projects/tree/main/EDA_Lourdes_Gomez)
+- [Exploratory data analysis of supermarket product prices](https://github.com/lourdes-gomez/Exploratory data analysis of food price trends)
 - [Customer churn prediction with machine learning](https://github.com/lourdes-gomez/Machine-learning-projects/tree/main/Customer%20churn%20prediction%20with%20machine%20learning)
 - [Using the ChatGPT API to classify and synthesize WhatsApp messages](https://github.com/lourdes-gomez/tripulaciones-data)
 <br>
